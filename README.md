@@ -1,4 +1,4 @@
-# Kivy intro: the Pong Game
+# Kivy intro
 
 Built with Python 3.7. (Kivy installation for Python 3.8 failed!)
 
